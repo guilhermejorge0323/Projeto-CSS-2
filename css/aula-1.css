@@ -1,0 +1,25 @@
+*{
+    border: 1px solid red;
+}
+
+span{
+    color: green;
+}
+
+.azul{
+    color: blue;
+}
+
+#amarelo{
+    background: yellow;
+}
+
+li>a{
+    color: blue;
+    background: green;
+}
+
+ul a{
+    color: blue;
+    background: red;
+}

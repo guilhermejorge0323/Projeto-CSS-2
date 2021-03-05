@@ -1,0 +1,32 @@
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    width: 720px;
+    /* background: #159cb0; */
+    float: left;
+    
+}
+
+li{
+    float: left;
+}
+
+ul a{
+    display: block;
+    text-decoration: none;
+    padding: 0 2em;
+    line-height: 2em;
+    color:  #FFF;
+    border: 1px solid gray;
+    background: #159cb0;
+    
+}
+
+li:hover{
+    border-bottom: 5px solid #000;
+
+}
+
+
+

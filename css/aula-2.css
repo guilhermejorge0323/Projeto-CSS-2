@@ -1,0 +1,19 @@
+body{
+    color: red;
+    font-size: 25px;
+    border: 6px solid blue;
+    background: gray;
+}
+
+.pagina{
+    border: 5px solid blue;
+}
+
+
+p{
+    color: green !important;
+}
+
+p{
+    color: red;
+}

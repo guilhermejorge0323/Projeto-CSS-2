@@ -1,0 +1,8 @@
+.caixa{
+    width: 400px;
+    background: #dedede url('/img/aula-14/topo.png') no-repeat top left;
+}
+
+.caixa p{
+    background: url('/img/aula-14/baixo.png') no-repeat left bottom;
+}

@@ -1,0 +1,8 @@
+body{
+    font-family: a;
+}
+
+@font-face{
+    font-family: "a";
+    src: url('/fontes/aula-16/Captureit.ttf');
+}
